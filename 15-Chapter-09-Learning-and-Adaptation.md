@@ -2,7 +2,7 @@
 
 Learning and adaptation are pivotal for enhancing the capabilities of artificial intelligence agents. These processes enable agents to evolve beyond predefined parameters, allowing them to improve autonomously through experience and environmental interaction. By learning and adapting, agents can effectively manage novel situations and optimize their performance without constant manual intervention. This chapter explores the principles and mechanisms underpinning agent learning and adaptation in detail.
 
-<mark>学习与适应能力是提升智能体性能的关键所在。通过这些机制，智能体能够突破预设参数的束缚，在与环境交互的过程中通过经验积累实现自我进化。具备学习与适应能力的智能体，可以在无需人工持续干预的情况下，自主应对新场景并优化自身表现。本章将深入探讨智能体学习与适应的核心原理及其实现机制。</mark>
+<mark>学习与适应能力是提升智能体性能的关键。这些机制让智能体能够突破预设参数的束缚，在与环境交互中通过经验积累实现自我进化。具备学习与适应能力的智能体可以在无需人工持续干预的情况下自主应对新场景并优化自身表现。本章将深入探讨智能体学习与适应的核心原理及其实现机制。</mark>
 
 ---
 
@@ -10,7 +10,7 @@ Learning and adaptation are pivotal for enhancing the capabilities of artificial
 
 Agents learn and adapt by changing their thinking, actions, or knowledge based on new experiences and data. This allows agents to evolve from simply following instructions to becoming smarter over time.
 
-<mark>智能体通过不断积累的经验和数据来调整自身的认知模式、行为策略和知识结构，从而实现学习与适应。这一演化过程让智能体能够从最初的「指令执行者」逐步成长为具备自主学习能力的智能系统。</mark>
+<mark>智能体通过不断积累经验和数据来调整自身的认知模式、行为策略和知识结构，从而实现学习与适应。这一演化过程让智能体从最初的「指令执行者」逐步成长为具备自主学习能力的智能系统。</mark>
 
 - **Reinforcement Learning**: Agents try actions and receive rewards for positive outcomes and penalties for negative ones, learning optimal behaviors in changing situations. Useful for agents controlling robots or playing games.
 
@@ -106,7 +106,7 @@ In essence, DPO simplifies alignment by directly optimizing the language model o
 
 Adaptive agents exhibit enhanced performance in variable environments through iterative updates driven by experiential data.
 
-<mark>自适应智能体通过经验数据驱动的迭代更新，在动态环境中展现出卓越的性能提升，以下是一些典型应用场景。</mark>
+<mark>自适应智能体通过经验数据驱动的迭代更新，在动态环境中展现出卓越的性能提升。以下是一些典型应用场景：</mark>
 
 - **Personalized assistant agents** refine interaction protocols through longitudinal analysis of individual user behaviors, ensuring highly optimized response generation.
 
